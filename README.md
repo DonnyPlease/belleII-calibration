@@ -2,6 +2,8 @@
 
 Repository for a bachelor thesis:
 
+The code in the folder src is not mine, but it was given to me for the project. Without it the crucial part of the code for this thesis does not work.
+
 This repository contains code used in my bachelor thesis.
 It also contains data on which the code was demonstrated and some python scripts 
 that were used to create some of the graphs in the thesis.
